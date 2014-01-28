@@ -3,7 +3,7 @@ require 'bootstrap-sass'
 
 module Aerogel
   module AerogelBootstrap
-    VERSION = "0.0.1"
+    VERSION = "0.0.2"
   end
 
   # Finally, register module's root folder
