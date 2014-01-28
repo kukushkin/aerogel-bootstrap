@@ -1,4 +1,4 @@
-require 'aerogel-core'
+require 'aerogel/core'
 require 'bootstrap-sass'
 
 module Aerogel
